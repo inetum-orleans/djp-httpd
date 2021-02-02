@@ -1,0 +1,4 @@
+{
+  "directory": ".docker/httpd",
+  "httpd_version": ["2.4", "2.2"]
+}
